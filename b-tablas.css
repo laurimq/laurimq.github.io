@@ -1,0 +1,41 @@
+.dia-1{
+    font-weight: bolder;
+    font-size: larger;
+    color: cadetblue;
+}
+/* Van iguales porque en la tabla en uno dice (Días de atención) y en el otro (Fumadores anonimos) los cuento como "Día") */
+.hora-1{
+    font-weight: bolder;
+    font-size: larger;                                       
+    color: cadetblue;
+    
+}  
+
+.dia-2{
+font-weight: bolder;
+font-size: larger;
+color:cadetblue;
+}
+/*Tabla fila 2*/
+.hora-2{
+color: burlywood;
+}
+.dia-3{
+    font-weight: bolder;
+    font-size: larger;
+    color: cadetblue;
+}
+/*Tabla fila 3*/
+.hora-3{
+    color:chocolate;
+}
+.dia-4{
+    font-weight: bolder;
+    font-size: larger;
+    color: cadetblue;
+}
+/*Tabla ultima fila */
+.hora-4{
+    color: coral;
+}
+

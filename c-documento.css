@@ -1,0 +1,20 @@
+.cabeza-pag{
+    background-color: darkkhaki;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    width: 100%;
+    height: 30%;
+} /*Cabeza de la página*/
+
+/*Pie de la página*/
+.pie-pagina{
+    background-color: darkkhaki;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    width: 100%;
+    height: 30%;
+}
+/*Listas de la página*/
+.listas{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

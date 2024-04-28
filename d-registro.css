@@ -1,0 +1,22 @@
+.cabecita{
+    font-weight: bolder;
+    background-color:darkblue;
+    width: 100%;
+    height: 30%;
+}
+/* Cabeza de la página*/
+
+/*Pie de la página*/
+.pie-pag{
+    background-color:darkblue;
+    width: 100%;
+    height: 30%;
+    font-weight: bolder;
+} 
+/*Registro*/
+form{
+    border-top: 5px;
+    border-right: 5px;
+    border-style:double;
+    border-color: darkblue;
+}
