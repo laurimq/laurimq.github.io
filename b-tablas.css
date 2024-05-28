@@ -1,41 +1,79 @@
+body{
+    background-image:url(https://media.istockphoto.com/id/984621670/es/foto/excursionista-de-hombre-en-la-cima-de-la-monta%C3%B1a.jpg?s=612x612&w=0&k=20&c=prsUuZtpv8a_ePw4VfAJwyvNSlf0OwqVjvYAjxHX1Rw=);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #fff;
+}
 .dia-1{
     font-weight: bolder;
     font-size: larger;
-    color: cadetblue;
+    color: black;
 }
 /* Van iguales porque en la tabla en uno dice (Días de atención) y en el otro (Fumadores anonimos) los cuento como "Día") */
 .hora-1{
     font-weight: bolder;
     font-size: larger;                                       
-    color: cadetblue;
+    color: black;
     
 }  
 
 .dia-2{
 font-weight: bolder;
 font-size: larger;
-color:cadetblue;
+color: black;
 }
 /*Tabla fila 2*/
 .hora-2{
-color: burlywood;
+color: green;
 }
 .dia-3{
     font-weight: bolder;
     font-size: larger;
-    color: cadetblue;
+    color: black;
 }
 /*Tabla fila 3*/
 .hora-3{
-    color:chocolate;
+    color: darkblue;
 }
 .dia-4{
     font-weight: bolder;
     font-size: larger;
-    color: cadetblue;
+    color: black;
 }
 /*Tabla ultima fila */
 .hora-4{
-    color: coral;
+    color: darkolivegreen;
+}
+
+header{
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+table{
+    width: 50%;
+    color: black;
+}
+.contenedor{
+    background-color: #fff;
+    margin: 30px;
+    padding: 0;
+    opacity: 70%;
+}
+
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: xx-small;
+  margin: 10px;
+}
+
+p{
+    font-weight: bold;
+}
+
+svg{
+    padding: 1px;
+    margin-left: 20px;
 }
 
